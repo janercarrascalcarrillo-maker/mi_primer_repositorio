@@ -10,3 +10,6 @@ Este repositorio contiene ejercicios básicos de programación en Java.
 
 2. TipoTriangulo.java → Muestra el tipo de triangulo segun el diametro de sus lados.
 
+## Ejercicios 
+
+3. ContadorNumeros.java → Muestra la cantidad de numeros positivos.
