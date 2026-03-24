@@ -1,6 +1,6 @@
 # Mi primer repositorio Java
 
-Este repositorio contiene ejercicios básicos de programación en Java.
+Este  repositorio contiene ejercicios básicos de programación en Java.
 
 ## Ejercicios
 
